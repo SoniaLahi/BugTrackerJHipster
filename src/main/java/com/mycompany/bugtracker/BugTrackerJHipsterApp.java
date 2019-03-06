@@ -32,6 +32,8 @@ public class BugTrackerJHipsterApp {
 
     public BugTrackerJHipsterApp(Environment env) {
         this.env = env;
+
+
     }
 
     /**
